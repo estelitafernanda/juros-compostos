@@ -4,4 +4,5 @@ function calcularJurosCompostos(capital, taxa, tempo){
 
     return juros;
 }
+
 module.exports = {calcularJurosCompostos};
