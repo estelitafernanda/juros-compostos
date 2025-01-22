@@ -12,3 +12,7 @@ Este projeto é uma aplicação simples para calcular juros compostos, desenvolv
 1. Clone o repositório:
    ```bash
    git clone https://github.com/estelitafernanda/juros-compostos.git
+
+2. Comandos
+   npm install
+   npm run test
